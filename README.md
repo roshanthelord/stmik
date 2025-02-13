@@ -1,6 +1,4 @@
-Here's the raw **README.md** content for your GitHub repository:  
 
-```markdown
 # 🐍 Snake Game (Python)
 
 This is a classic **Snake Game** built using **Python** and **Pygame**. The game allows players to control a snake, eat food to grow longer, and avoid collisions with the walls and itself.  
